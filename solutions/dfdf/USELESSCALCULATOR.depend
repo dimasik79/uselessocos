@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1562907109 source:c:\users\enter\desktop\laol\uselesscalculator\calc.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"calc.h"
+	"op.h"
+
+1562900317 source:c:\users\enter\desktop\laol\uselesscalculator\op.cpp
+	"op.h"
+
+1562905070 source:c:\users\enter\desktop\laol\uselesscalculator\main.cpp
+	<iostream>
+	"calc.h"
+
+1562899117 c:\users\enter\desktop\laol\uselesscalculator\calc.h
+	<string>
+
+1562899612 c:\users\enter\desktop\laol\uselesscalculator\op.h
+
+1562901140 c:\users\enter\desktop\laol\uselesscalculator\calc.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"calc.h"
+	"op.h"
+
